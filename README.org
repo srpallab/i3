@@ -1,1 +1,7 @@
 * This is my personal i3 configuration. 
+** OS 
+Linux Mint 19.2
+** Installation
+#+BEGIN_SRC bash
+  sudo apt install i3 i3lock i3blocks dmenu acpi sysstat
+#+END_SRC
