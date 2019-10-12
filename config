@@ -135,3 +135,8 @@ bar {
 #i3 lock
 bindsym $mod+shift+x exec i3lock
 
+# emacs run
+bindsym $mod+g exec emacs
+
+# firefox run
+bindsym $mod+b exec firefox
